@@ -11,4 +11,4 @@ For the sake of simplicity and github's lack of mathjax support, denote Lower() 
 
 Ex 1.  Lower() = 0, Upper() = 1, Left() = 0, and Right() = 1
 
-![][images/Figure_3.png]
+![](images/Figure_3.png)
