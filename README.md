@@ -24,3 +24,6 @@ Ex 3. Lower() = 0.5*sin(2*pi*x - pi/2)+0.5, Right() = 0.5*sin(2*pi*x - pi/2)+0.5
 Ex 4. Lower() = sin(pi*x), Upper() = x(1-x), Left() = 0, Right() = 0
 
 ![](images/Figure_4.png)
+
+## Future Updates
+I plan to make a javascript web application that is fully interactable in the future
