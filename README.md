@@ -15,3 +15,12 @@ Ex 1.  Lower() = 0, Upper() = 1, Left() = 0, and Right() = 1
 
 Ex 2. Lower() = 0.5*sin(pi*x - pi/2)+0.5, Right() = 0.5*sin(pi*x - pi/2)+0.5, Left() = 0, Right() = 1
 
+![](images/Figure_2.png)
+
+Ex 3. Lower() = 0.5*sin(2*pi*x - pi/2)+0.5, Right() = 0.5*sin(2*pi*x - pi/2)+0.5, Left() = 0.5*sin(2*pi*x - pi/2)+0.5, Right() = 0.5*sin(2*pi*x - pi/2)+0.5
+
+![](images/Figure_1.png)
+
+Ex 4. Lower() = sin(pi*x), Upper() = x(1-x), Left() = 0, Right() = 0
+
+![](images/Figure_4.png)
