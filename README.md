@@ -12,3 +12,6 @@ For the sake of simplicity and github's lack of mathjax support, denote Lower() 
 Ex 1.  Lower() = 0, Upper() = 1, Left() = 0, and Right() = 1
 
 ![](images/Figure_3.png)
+
+Ex 2. Lower() = 0.5*sin(pi*x - pi/2)+0.5, Right() = 0.5*sin(pi*x - pi/2)+0.5, Left() = 0, Right() = 1
+
