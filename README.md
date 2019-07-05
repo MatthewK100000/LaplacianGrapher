@@ -7,4 +7,4 @@ Graphs the solution curve to Laplace's equation (using numerical approximations 
 (coming soon)
 
 ## Examples
-\[x^3\]
+\(\Prod\)
